@@ -1,0 +1,7 @@
+<resources>
+    <style name="jeejio_popup_anim">
+        <item name="android:windowEnterAnimation">@anim/jeejio_popup_in</item>
+        <item name="android:windowExitAnimation">@anim/jeejio_popup_out</item>
+    </style>
+
+</resources>

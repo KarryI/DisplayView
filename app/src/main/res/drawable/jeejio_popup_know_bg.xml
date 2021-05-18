@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item android:state_pressed="true" android:drawable="@drawable/jeejio_popup_know_bg_press"/>
+    <item android:state_pressed="false" android:drawable="@drawable/jeejio_popup_know_bg_unpress"/>-->
+    <item android:state_pressed="false" >
+        <shape android:shape="rectangle">
+            <corners android:radius="17dp" />
+            <solid android:color="#4c7eff" />
+        </shape>
+    </item>
+
+    <item android:state_pressed="true" >
+        <shape android:shape="rectangle">
+            <corners android:radius="17dp" />
+            <solid android:color="#2851B9" />
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DisplayViewDemo</string>
+    <string name="jeejio_popup_str_picture">【图片试看】%1$s</string>
+    <string name="jeejio_popup_str_video">【视频试看】%1$s</string>
+    <string name="jeejio_popup_str_live">【直播试看】%1$s</string>
+    <string name="jeejio_popup_str_know">知道了</string>
+    <string name="jeejio_popup_title_unknow">未知</string>
+    <string name="jeejio_popup_str_slide_left">左滑动，可以关闭当前试看</string>
+    <string name="jeejio_popup_str_slide_up">上滑动，可以关闭全部试看</string>
+    <string name="jeejio_popup_str_loading">文件加载中</string>
+    <string name="jeejio_popup_str_error">哎呀~文件损坏了</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="jeejio_popup_title_height">40dp</dimen>
+    <dimen name="jeejio_popup_title_icon_width">19dp</dimen>
+    <dimen name="jeejio_popup_title_icon_height">19dp</dimen>
+    <dimen name="jeejio_popup_title_icon_left">17dp</dimen>
+    <dimen name="jeejio_popup_title_size">12sp</dimen>
+    <dimen name="jeejio_popup_title_tx_left">3dp</dimen>
+    <dimen name="jeejio_popup_title_tx_right">110dp</dimen>
+    <dimen name="jeejio_popup_title_tx_max">400dp</dimen>
+    <dimen name="jeejio_popup_timer_size">12sp</dimen>
+    <dimen name="jeejio_popup_timer_width">40dp</dimen>
+    <dimen name="jeejio_popup_timer_height">22dp</dimen>
+    <dimen name="jeejio_popup_timer_right">47dp</dimen>
+    <dimen name="jeejio_popup_know_width">116dp</dimen>
+    <dimen name="jeejio_popup_know_height">29dp</dimen>
+    <dimen name="jeejio_popup_know_bottom">17dp</dimen>
+    <dimen name="jeejio_popup_know_size">12sp</dimen>
+    <dimen name="jeejio_popup_guide_top">45dp</dimen>
+    <dimen name="jeejio_popup_guide_width">178dp</dimen>
+    <dimen name="jeejio_popup_guide_height">178dp</dimen>
+    <dimen name="jeejio_popup_guide_left">256dp</dimen>
+    <dimen name="jeejio_popup_help_top">8dp</dimen>
+    <dimen name="jeejio_popup_help_right">14dp</dimen>
+    <dimen name="jeejio_popup_help_width">22dp</dimen>
+    <dimen name="jeejio_popup_help_height">22dp</dimen>
+    <dimen name="jeejio_popup_guide_text_size">13sp</dimen>
+    <dimen name="jeejio_popup_guide_margin_top">1dp</dimen>
+
+    <dimen name="jeejio_popup_loading_icon_top">84dp</dimen>
+    <dimen name="jeejio_popup_loading_icon_width">93dp</dimen>
+    <dimen name="jeejio_popup_loading_icon_height">76dp</dimen>
+    <dimen name="jeejio_popup_loading_text_size">12sp</dimen>
+    <dimen name="jeejio_popup_loading_text_top">174dp</dimen>
+    <dimen name="jeejio_popup_loading_process_top">208dp</dimen>
+    <dimen name="jeejio_popup_loading_process_width">28dp</dimen>
+    <dimen name="jeejio_popup_loading_process_height">28dp</dimen>
+
+
+
+    <dimen name="jeejio_popup_error_top">108dp</dimen>
+    <dimen name="jeejio_popup_error_icon_width">93dp</dimen>
+    <dimen name="jeejio_popup_error_icon_height">76dp</dimen>
+    <dimen name="jeejio_popup_error_text_size">12sp</dimen>
+    <dimen name="jeejio_popup_error_text_top">199dp</dimen>
+
+
+</resources>
